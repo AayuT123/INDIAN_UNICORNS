@@ -1,5 +1,3 @@
-# UNICORN_OF_INDIA_PROJECT
-
 Introduction:
 
 The "Indian Unicorns" project revolves around analyzing a comprehensive dataset on Indian unicorn companies, available in Excel format. Unicorns are privately held startup companies with a valuation surpassing $1 billion, and India has witnessed remarkable growth in this domain in recent years.
